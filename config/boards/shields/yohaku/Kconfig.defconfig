@@ -1,6 +1,6 @@
 if SHIELD_YOHAKU
 
-config zmk_keyboard_name
+config ZMK_KEYBOARD_NAME
     default "yohaku"
 
 endif
