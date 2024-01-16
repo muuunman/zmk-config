@@ -21,7 +21,7 @@
             bindings = <
                 &bt BT_CLR &bt BT_NXT
                 &kp C &kp D
-                &kp E &kp F
+                &kp E &kp W
             >;
             sensor-bindings = <&inc_dec_kp G H>;
         };
